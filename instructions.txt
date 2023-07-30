@@ -4,6 +4,8 @@
 4. feature engineering
 5. model training
 6. model evaluation
-7. model deployment
+7. hyperparameter tuning
+8. model deployment
+
 
 
