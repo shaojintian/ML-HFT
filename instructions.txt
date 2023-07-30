@@ -1,0 +1,9 @@
+1. data process
+2. data analysis
+3. data visualization
+4. feature engineering
+5. model training
+6. model evaluation
+7. model deployment
+
+
